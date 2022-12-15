@@ -3,7 +3,7 @@ package OOPS11;
 public class anagram {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
 		String s1 = "race";
 		String s2 = "ecar";
 
